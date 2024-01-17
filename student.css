@@ -221,14 +221,15 @@ body {
 }
 .frame {
   display: flex;
+  justify-content: space-around;
   padding: 8px 12px;
+  margin-bottom: 40px;
 }
 .student {
   display: flex;
   border-radius: 8px;
   background-color: rgb(223, 229, 234);
   padding: 8px 12px;
-  margin: auto;
 }
 .student_img {
   display: flex;
